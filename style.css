@@ -58,3 +58,19 @@ background-color: #eae2b7;
 a:hover {
   color: #f77f00;
 }
+.center-list {
+  text-align: center;
+}
+
+.center-list ul {
+  display: inline-block;
+  text-align: left;
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}/
