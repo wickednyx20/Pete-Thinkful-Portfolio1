@@ -73,4 +73,1255 @@ header {
 
 h2 {
   text-align: center;
-}/
+}/<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <!-- TODO: Add header here -->
+  <center>
+    <h1>
+      <div> Pete Thakful / Artist </div>
+    </h1>
+  </center>
+
+  <main>
+    <!-- TODO: Add header here -->
+    <header>
+      <center>
+        <div>
+          <a href="https://replit.com/@erinkbeckman132/Pete-Thinkful-Portfolio#index.html">About</a>
+          <a href="https://replit.com/@erinkbeckman132/Pete-Thinkful-Portfolio#index.html">Portfolio</a>
+          <a href="https://replit.com/@erinkbeckman132/Pete-Thinkful-Portfolio#index.html">Contact</a>
+        </div>
+      </center>
+      <div>
+        <center>
+          <h2 id="About"></h2>
+        </center>
+        <div>
+          <center>
+            <h2 id="Potfolio"></h2>
+          </center>
+          <div>
+            <center>
+              <h2 id="Contact"></h2>
+            </center>
+
+            <!-- TODO: Add About section here -->
+            <article>
+              <h2>
+                <div> Hi! I'm Pete Thankful </div>
+                <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful">
+              </h2>
+              <p> I'm an artist living in Denver, Colorado.
+              </p>
+              <div id="section1">
+                <div id="abc">
+                  <ul>
+                    <p>As an artist, I'm interested in:</p>
+                    <div class="center-list">
+                      <ul>
+                        <li>Producing abstract art</li>
+                        <li> Creating street graffiti art</li>
+                        <li> Connecting with like-minded artists</li>
+                      </ul>
+                    </div>
+
+                    <p>
+                      Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+                    </p>
+
+                    <p>
+                      <h3>
+                        <center> Pete's Background </center>
+                      </h3>
+
+                      <p1>
+                        <center> After graduating college, I became an art teacher and worked with
+                          beginners and professionals. I love art and my works have been
+                          featured in major art galleries across the globe.
+                        </center>
+                      </p1>
+
+                    </p>
+                </div>
+              </div>
+            </article>
+
+            <p2>
+              <center>
+                <div>If you're looking to hire an artist or if you're an artist looking
+                  for a collaborator for your next project, please reach out! I'm so
+                  excited to work with other artists to create new art.
+                </div>
+              </center>
+            </p2>
+
+            <div>
+              <article>
+                <hr>
+              </article>
+
+              <h2>
+                <center>
+                  <div> Portfolio</div>
+                </center>
+              </h2>
+              <!-- TODO: Add Portfolio section here -->
+
+              <p>
+                <h3>
+                  <center>
+                    <div>Abstract Red</div>
+                  </center>
+                </h3>
+                <center>
+                  <div>
+                    <img src="images/abstract-red.png" alt="Abstract Red">
+                  </div>
+                </center>
+                <center>
+                  <div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+                    waistcoat scenester hell of.
+                  </div>
+                </center>
+
+                <p>
+
+                  <h3>
+                    <center>
+                      <div>Spiral Zany</div>
+                    </center>
+                  </h3>
+                  <center>
+                    <div>
+                      <img src="images/spiral-zany.png" alt="Spiral Zany">
+                    </div>
+                  </center>
+
+                  <p>
+                    <div>
+                      <center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck.
+                      </center>
+                    </div>
+                  </p>
+
+
+                  <div>
+                    <article>
+                      <h3>
+                        <center>Melted Rainbow</center>
+                      </h3>
+                      <center>
+                        <img src="images/melted-rainbow.png" alt="Melted Rainbow">
+                      </center>
+                      <center>
+                        Melted Rainbow
+                        Edison bulb single-origin coffee snackwave, actually ennui
+                        locavore shabby chic forage.
+                      </center>
+                    </article>
+
+                    <div>
+
+                      <article>
+                        <hr>
+                      </article>
+
+                      <center> Contact</center>
+                      <article>
+                        I'd love to hear from you! Please feel free to contact or follow me:
+                        <ol>
+                          <li>
+                            <a href="https://www.linkedin.com/">LinkedIn</a>
+                          </li>
+                          <li>
+                            <a href="https://www.instagram.com/">Instagram</a>
+                          </li>
+                          <li>
+                            <a href="https://www.pinterest.com/"> Pinterest</a>
+                          </li>
+                        </ol>
+
+
+                        <!-- TODO: Add Contact section here -->
+                      </article>
+                    </div>
+                  </div>
+                </p>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <center>
+      <p>© Pete Thinkful. All rights reserved.</p>
+    </center>
+  </footer>
+</body>
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <!-- TODO: Add header here -->
+  <center>
+    <h1>
+      <div> Pete Thakful / Artist </div>
+    </h1>
+  </center>
+
+  <main>
+    <!-- TODO: Add header here -->
+    <header>
+      <center>
+        <div>
+          <a href="#About">About</a>
+          <a href="#Portfolio">Portfolio</a>
+          <a href="#Contact">Contact</a>
+        </div>
+      </center>
+      <div>
+        <center>
+          <h2 id="About"></h2>
+        </center>
+        <div>
+          <center>
+            <h2 id="Portfolio"></h2>
+          </center>
+          <div>
+            <center>
+              <h2 id="Contact"></h2>
+            </center>
+
+            <!-- TODO: Add About section here -->
+            <article>
+              <h2>
+                <div> Hi! I'm Pete Thankful </div>
+                <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful">
+              </h2>
+              <p> I'm an artist living in Denver, Colorado.
+              </p>
+              <div id="section1">
+                <div id="abc">
+                  <ul>
+                    <p>As an artist, I'm interested in:</p>
+                    <div class="center-list">
+                      <ul>
+                        <li>Producing abstract art</li>
+                        <li> Creating street graffiti art</li>
+                        <li> Connecting with like-minded artists</li>
+                      </ul>
+                    </div>
+
+                    <p>
+                      Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+                    </p>
+
+                    <p>
+                      <h3>
+                        <center> Pete's Background </center>
+                      </h3>
+
+                      <p1>
+                        <center> After graduating college, I became an art teacher and worked with
+                          beginners and professionals. I love art and my works have been
+                          featured in major art galleries across the globe.
+                        </center>
+                      </p1>
+
+                    </p>
+                </div>
+              </div>
+            </article>
+
+            <p2>
+              <center>
+                <div>If you're looking to hire an artist or if you're an artist looking
+                  for a collaborator for your next project, please reach out! I'm so
+                  excited to work with other artists to create new art.
+                </div>
+              </center>
+            </p2>
+
+            <div>
+              <article>
+                <hr>
+              </article>
+
+              <h2>
+                <center>
+                  <div> Portfolio</div>
+                </center>
+              </h2>
+              <!-- TODO: Add Portfolio section here -->
+
+              <p>
+                <h3>
+                  <center>
+                    <div>Abstract Red</div>
+                  </center>
+                </h3>
+                <center>
+                  <div>
+                    <img src="images/abstract-red.png" alt="Abstract Red">
+                  </div>
+                </center>
+                <center>
+                  <div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+                    waistcoat scenester hell of.
+                  </div>
+                </center>
+
+                <p>
+
+                  <h3>
+                    <center>
+                      <div>Spiral Zany</div>
+                    </center>
+                  </h3>
+                  <center>
+                    <div>
+                      <img src="images/spiral-zany.png" alt="Spiral Zany">
+                    </div>
+                  </center>
+
+                  <p>
+                    <div>
+                      <center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck.
+                      </center>
+                    </div>
+                  </p>
+
+
+                  <div>
+                    <article>
+                      <h3>
+                        <center>Melted Rainbow</center>
+                      </h3>
+                      <center>
+                        <img src="images/melted-rainbow.png" alt="Melted Rainbow">
+                      </center>
+                      <center>
+                        Melted Rainbow
+                        Edison bulb single-origin coffee snackwave, actually ennui
+                        locavore shabby chic forage.
+                      </center>
+                    </article>
+
+                    <div>
+
+                      <article>
+                        <hr>
+                      </article>
+
+                      <center> Contact</center>
+                      <article>
+                        I'd love to hear from you! Please feel free to contact or follow me:
+                        <ol>
+                          <li>
+                            <a href="https://www.linkedin.com/">LinkedIn</a>
+                          </li>
+                          <li>
+                            <a href="https://www.instagram.com/">Instagram</a>
+                          </li>
+                          <li>
+                            <a href="https://www.pinterest.com/"> Pinterest</a>
+                          </li>
+                        </ol>
+
+
+                        <!-- TODO: Add Contact section here -->
+                      </article>
+                    </div>
+                  </div>
+                </p>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <center>
+      <p>© Pete Thinkful. All rights reserved.</p>
+    </center>
+  </footer>
+</body>
+
+</html>/* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet. You don't have to edit this line.*/
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
+
+body {
+  color: #003049;
+  font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px;
+}
+
+/* Set the font family for any h1, h2, or h3 heading */
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", Times, serif;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+article {
+  padding: 50px 0;
+}
+
+article div {
+  text-align: center;
+  width: 100%;
+}
+
+p {
+  line-height: 1.5;
+}
+
+/* The div container constrains the content width within the main container to 600px */
+div {
+  margin: auto;
+  width: 600px;
+}
+
+img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+/* Add your solution below */
+
+.image-circle {
+  border-radius: 50%;
+  border: 2px solid #003049
+}
+
+body {
+  background-color: #eae2b7;
+}
+
+a:link {
+  color: #d62828;
+}
+
+a:hover {
+  color: #f77f00;
+}
+
+.center-list {
+  text-align: center;
+}
+
+.center-list ul {
+  display: inline-block;
+  text-align: left;
+}
+
+header {
+  text-align: center;
+}<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <!-- TODO: Add header here -->
+  <center>
+    <h1>
+      <div> Pete Thakful / Artist </div>
+    </h1>
+  </center>
+
+  <main>
+    <!-- TODO: Add header here -->
+    <header>
+      <center>
+        <div>
+          <a href="#About">About</a>
+          <a href="#Portfolio">Portfolio</a>
+          <a href="#Contact">Contact</a>
+        </div>
+      </center>
+      <div>
+        <center>
+          <h2 id="About">About</h2>
+        </center>
+        <div>
+          <center>
+            <h2 id="Portfolio">Portfolio</h2>
+          </center>
+          <div>
+            <center>
+              <h2 id="Contact">Contact</h2>
+            </center>
+
+            <!-- TODO: Add About section here -->
+            <article>
+              <h2>
+                <div> Hi! I'm Pete Thankful </div>
+                <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful">
+              </h2>
+              <p> I'm an artist living in Denver, Colorado.
+              </p>
+              <div id="section1">
+                <div id="abc">
+                  <ul>
+                    <p>As an artist, I'm interested in:</p>
+                    <div class="center-list">
+                      <ul>
+                        <li>Producing abstract art</li>
+                        <li> Creating street graffiti art</li>
+                        <li> Connecting with like-minded artists</li>
+                      </ul>
+                    </div>
+
+                    <p>
+                      Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+                    </p>
+
+                    <p>
+                      <h3>
+                        <center> Pete's Background </center>
+                      </h3>
+
+                      <p1>
+                        <center> After graduating college, I became an art teacher and worked with
+                          beginners and professionals. I love art and my works have been
+                          featured in major art galleries across the globe.
+                        </center>
+                      </p1>
+
+                    </p>
+                </div>
+              </div>
+            </article>
+
+            <p2>
+              <center>
+                <div>If you're looking to hire an artist or if you're an artist looking
+                  for a collaborator for your next project, please reach out! I'm so
+                  excited to work with other artists to create new art.
+                </div>
+              </center>
+            </p2>
+
+            <div>
+              <article>
+                <hr>
+              </article>
+
+              <h2>
+                <center>
+                  <div> Portfolio</div>
+                </center>
+              </h2>
+              <!-- TODO: Add Portfolio section here -->
+
+              <p>
+                <h3>
+                  <center>
+                    <div>Abstract Red</div>
+                  </center>
+                </h3>
+                <center>
+                  <div>
+                    <img src="images/abstract-red.png" alt="Abstract Red">
+                  </div>
+                </center>
+                <center>
+                  <div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+                    waistcoat scenester hell of.
+                  </div>
+                </center>
+
+                <p>
+
+                  <h3>
+                    <center>
+                      <div>Spiral Zany</div>
+                    </center>
+                  </h3>
+                  <center>
+                    <div>
+                      <img src="images/spiral-zany.png" alt="Spiral Zany">
+                    </div>
+                  </center>
+
+                  <p>
+                    <div>
+                      <center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck.
+                      </center>
+                    </div>
+                  </p>
+
+
+                  <div>
+                    <article>
+                      <h3>
+                        <center>Melted Rainbow</center>
+                      </h3>
+                      <center>
+                        <img src="images/melted-rainbow.png" alt="Melted Rainbow">
+                      </center>
+                      <center>
+                        Melted Rainbow
+                        Edison bulb single-origin coffee snackwave, actually ennui
+                        locavore shabby chic forage.
+                      </center>
+                    </article>
+
+                    <div>
+
+                      <article>
+                        <hr>
+                      </article>
+
+                      <center> Contact</center>
+                      <article>
+                        I'd love to hear from you! Please feel free to contact or follow me:
+                        <ol>
+                          <li>
+                            <a href="https://www.linkedin.com/">LinkedIn</a>
+                          </li>
+                          <li>
+                            <a href="https://www.instagram.com/">Instagram</a>
+                          </li>
+                          <li>
+                            <a href="https://www.pinterest.com/"> Pinterest</a>
+                          </li>
+                        </ol>
+
+
+                        <!-- TODO: Add Contact section here -->
+                      </article>
+                    </div>
+                  </div>
+                </p>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <center>
+      <p>© Pete Thinkful. All rights reserved.</p>
+    </center>
+  </footer>
+</body>
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <!-- TODO: Add header here -->
+  <center>
+    <h1>
+      <div> Pete Thakful / Artist </div>
+    </h1>
+  </center>
+
+  <main>
+    <!-- TODO: Add header here -->
+    <header>
+      <center>
+        <div>
+          <a href="#About">About</a>
+          <a href="#Portfolio">Portfolio</a>
+          <a href="#Contact">Contact</a>
+        </div>
+      </center>
+      <div>
+        <center>
+          <h2 id="About">About</h2>
+        </center>
+        <div>
+          <center>
+            <h2 id="Portfolio">Portfolio</h2>
+          </center>
+          <div>
+            <center>
+              <h2 id="Contact">Contact</h2>
+            </center>
+
+            <!-- TODO: Add About section here -->
+            <article>
+              <h2>
+                <div> Hi! I'm Pete Thankful </div>
+                <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful">
+              </h2>
+              <p> I'm an artist living in Denver, Colorado.
+              </p>
+              <div id="section1">
+                <div id="abc">
+                  <ul>
+                    <p>As an artist, I'm interested in:</p>
+                    <div class="center-list">
+                      <ul>
+                        <li>Producing abstract art</li>
+                        <li> Creating street graffiti art</li>
+                        <li> Connecting with like-minded artists</li>
+                      </ul>
+                    </div>
+
+                    <p>
+                      Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+                    </p>
+
+                    <p>
+                      <h3>
+                        <center> Pete's Background </center>
+                      </h3>
+
+                      <p1>
+                        <center> After graduating college, I became an art teacher and worked with
+                          beginners and professionals. I love art and my works have been
+                          featured in major art galleries across the globe.
+                        </center>
+                      </p1>
+
+                    </p>
+                </div>
+              </div>
+            </article>
+
+            <p2>
+              <center>
+                <div>If you're looking to hire an artist or if you're an artist looking
+                  for a collaborator for your next project, please reach out! I'm so
+                  excited to work with other artists to create new art.
+                </div>
+              </center>
+            </p2>
+
+            <div>
+              <article>
+                <hr>
+              </article>
+
+              <h2>
+                <center>
+                  <div> Portfolio</div>
+                </center>
+              </h2>
+              <!-- TODO: Add Portfolio section here -->
+
+              <p>
+                <h3>
+                  <center>
+                    <div>Abstract Red</div>
+                  </center>
+                </h3>
+                <center>
+                  <div>
+                    <img src="images/abstract-red.png" alt="Abstract Red">
+                  </div>
+                </center>
+                <center>
+                  <div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+                    waistcoat scenester hell of.
+                  </div>
+                </center>
+
+                <p>
+
+                  <h3>
+                    <center>
+                      <div>Spiral Zany</div>
+                    </center>
+                  </h3>
+                  <center>
+                    <div>
+                      <img src="images/spiral-zany.png" alt="Spiral Zany">
+                    </div>
+                  </center>
+
+                  <p>
+                    <div>
+                      <center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck.
+                      </center>
+                    </div>
+                  </p>
+
+
+                  <div>
+                    <article>
+                      <h3>
+                        <center>Melted Rainbow</center>
+                      </h3>
+                      <center>
+                        <img src="images/melted-rainbow.png" alt="Melted Rainbow">
+                      </center>
+                      <center>
+                        Melted Rainbow
+                        Edison bulb single-origin coffee snackwave, actually ennui
+                        locavore shabby chic forage.
+                      </center>
+                    </article>
+
+                    <div>
+
+                      <article>
+                        <hr>
+                      </article>
+
+                      <center>
+                        <h2>Contact</h2>
+                      </center>
+                      <article>
+                        I'd love to hear from you! Please feel free to contact or follow me:
+                        <ol>
+                          <li>
+                            <a href="https://www.linkedin.com/">LinkedIn</a>
+                          </li>
+                          <li>
+                            <a href="https://www.instagram.com/">Instagram</a>
+                          </li>
+                          <li>
+                            <a href="https://www.pinterest.com/"> Pinterest</a>
+                          </li>
+                        </ol>
+
+
+                        <!-- TODO: Add Contact section here -->
+                      </article>
+                    </div>
+                  </div>
+                </p>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <center>
+      <p>© Pete Thinkful. All rights reserved.</p>
+    </center>
+  </footer>
+</body>
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body> 
+<!-- TODO: Add header here --> 
+ <center> <h1> <div> Pete Thakful / Artist 
+  </div> </h1></center> 
+
+ <main>
+  <!-- TODO: Add header here -->
+   <header>
+      <center><div> 
+      <a href="#About">About</a> 
+      <a href="#Portfolio">Portfolio</a> 
+      <a href="#Contact">Contact</a> 
+    </center>
+     <div><center> <h3 id="About"></h3>
+        <div><center> <h2 id="Potfolio"></h2>
+        <div><center> <h2 id="Contact"></h2>
+
+     <!-- TODO: Add About section here -->
+       <article> 
+
+  <h2> <div> Hi! I'm Pete Thankful </div>
+  <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful"> </div></h2></center>
+
+ <p> I'm an artist living in Denver, Colorado.
+</p>
+          <div id="section1">
+            <div id="abc">
+                <ul>
+ <p>As an artist, I'm interested in:</p>
+  <div class="center-list">
+                <ul>
+                  <li>Producing abstract art</li>
+                  <li> Creating street graffiti art</li>
+                  <li> Connecting with like-minded artists</li>
+                </ul>
+              </div>
+
+      <p>
+        Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+</p>
+
+      <p> 
+     <h3> <center>  Pete's Background </center>
+     </h3>  
+
+       <p1> <center> After graduating college, I became an art teacher and worked with
+        beginners and professionals. I love art and my works have been
+        featured in major art galleries across the globe. </div> </center> </p1>
+
+       </article>
+
+   <p2> <center> <div>If you're looking to hire an artist or if you're an artist looking
+        for a collaborator for your next project, please reach out! I'm so
+        excited to work with other artists to create new art. </div> </center>
+   </p2>
+
+    <div>
+      <article> <hr> </article>
+
+           <h2><center><div> Portfolio</div></center></h2> </article>
+      <!-- TODO: Add Portfolio section here -->
+
+     <p>
+       <h3><center> <div>Abstract Red</div></center></h3>
+<center><div> <img src="images/abstract-red.png" alt="Abstract Red"></div> </center>
+       <center> <div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+        waistcoat scenester hell of.
+      </div> 
+
+     <p>
+
+      <h3> <center><div>Spiral Zany</div></center></h3>
+       <center> <div> <img src="images/spiral-zany.png" alt="Spiral Zany"></div> </center> 
+
+         <p><div><center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck.  </div> </center> </p>
+
+
+<div> <article>
+    <h3><center>Melted Rainbow</center></h3>
+          <center> <img src="images/melted-rainbow.png" alt="Melted Rainbow"> </center> 
+       <center>  Melted Rainbow
+        Edison bulb single-origin coffee snackwave, actually ennui
+        locavore shabby chic forage. </center>
+    </article> 
+
+<div> 
+
+  <article>
+    <hr>
+  </article>
+
+  <center> <div>Contact</div></center>
+      I'd love to hear from you! Please feel free to contact or follow me:
+  <ol>
+   <li> <a href="https://www.linkedin.com/">LinkedIn</a> </li>
+   <li> <a href="https://www.instagram.com/">Instagram</a> </li> 
+   <li> <a href="https://www.pinterest.com/"> Pinterest</a> </li> 
+
+
+      <!-- TODO: Add Contact section here -->
+    </div>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <center> <p>© Pete Thinkful. All rights reserved.</p> </center>
+  </footer>
+</body> 
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body> 
+<!-- TODO: Add header here --> 
+ <center> <h1> <div> Pete Thakful / Artist 
+  </div> </h1></center> 
+
+ <main>
+  <!-- TODO: Add header here -->
+   <header>
+      <center><div> 
+      <a href="https://replit.com/@erinkbeckman132/Pete-Thinkful-Portfolio#index.html">About</a> 
+      <a href="https://replit.com/@erinkbeckman132/Pete-Thinkful-Portfolio#index.html">Portfolio</a> 
+      <a href="https://replit.com/@erinkbeckman132/Pete-Thinkful-Portfolio#index.html">Contact</a> 
+    </center>
+     <div><center> <h3 id="About"></h3>
+        <div><center> <h2 id="Potfolio"></h2>
+        <div><center> <h2 id="Contact"></h2>
+
+     <!-- TODO: Add About section here -->
+       <article> 
+
+  <h2> <div> Hi! I'm Pete Thankful </div>
+  <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful"> </div></h2></center>
+
+ <p> I'm an artist living in Denver, Colorado.
+</p>
+          <div id="section1">
+            <div id="abc">
+                <ul>
+ <p>As an artist, I'm interested in:</p>
+  <div class="center-list">
+                <ul>
+                  <li>Producing abstract art</li>
+                  <li> Creating street graffiti art</li>
+                  <li> Connecting with like-minded artists</li>
+                </ul>
+              </div>
+
+      <p>
+        Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+</p>
+
+      <p> 
+     <h3> <center>  Pete's Background </center>
+     </h3>  
+
+       <p1> <center> After graduating college, I became an art teacher and worked with
+        beginners and professionals. I love art and my works have been
+        featured in major art galleries across the globe. </div> </center> </p1>
+
+       </article>
+
+   <p2> <center> <div>If you're looking to hire an artist or if you're an artist looking
+        for a collaborator for your next project, please reach out! I'm so
+        excited to work with other artists to create new art. </div> </center>
+   </p2>
+
+    <div>
+      <article> <hr> </article>
+
+           <h2><center><div> Portfolio</div></h2> </article>
+      <!-- TODO: Add Portfolio section here -->
+
+     <p>
+       <h3><center> <div>Abstract Red</div></center></h3>
+<center><div> <img src="images/abstract-red.png" alt="Abstract Red"></div> </center>
+       <center> <div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+        waistcoat scenester hell of.
+      </div> 
+
+     <p>
+
+      <h3> <center><div>Spiral Zany</div></center></h3>
+       <center> <div> <img src="images/spiral-zany.png" alt="Spiral Zany"></div> </center> 
+
+         <p><div><center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck.  </div> </center> </p>
+
+
+<div> <article>
+    <h3><center>Melted Rainbow</center></h3>
+          <center> <img src="images/melted-rainbow.png" alt="Melted Rainbow"> </center> 
+       <center>  Melted Rainbow
+        Edison bulb single-origin coffee snackwave, actually ennui
+        locavore shabby chic forage. </center>
+    </article> 
+
+<div> 
+
+  <article>
+    <hr>
+  </article>
+
+  <center> Contact</center>
+      I'd love to hear from you! Please feel free to contact or follow me:
+  <ol>
+   <ol> 1.<a href="https://www.linkedin.com/">LinkedIn</a> </ol>
+   <ol> 2.<a href="https://www.instagram.com/">Instagram</a> </ol> 
+   <ol> 3. <a href="https://www.pinterest.com/"> Pinterest</a> </ol> 
+
+
+      <!-- TODO: Add Contact section here -->
+    </div>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <center> <p>© Pete Thinkful. All rights reserved.</p> </center>
+  </footer>
+</body> 
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pete Thinkful</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <!-- TODO: Add header here -->
+  <center><h1><div> Pete Thakful / Artist
+  </div></h1></center>
+
+  <main>
+    <!-- TODO: Add header here -->
+    <header>
+      <center><div>
+        <a href="#About">About</a>
+        <a href="#Portfolio">Portfolio</a>
+        <a href="#Contact">Contact</a>
+      </center>
+      <div><center><h3 id="About"></h3>
+        <div><center><h2 id="Portfolio"></h2>
+        <div><center><h2 id="Contact"></h2>
+
+        <!-- TODO: Add About section here -->
+        <article>
+
+          <h2><div> Hi! I'm Pete Thankful </div>
+            <img class="image-circle" src="images/pete-thinkful.png" alt="Pete Thinkful">
+          </div></h2></center>
+
+          <p> I'm an artist living in Denver, Colorado.
+          </p>
+          <div id="section1">
+            <div id="abc">
+              <ul>
+                <p>As an artist, I'm interested in:</p>
+                <div class="center-list">
+                  <ul>
+                    <li>Producing abstract art</li>
+                    <li> Creating street graffiti art</li>
+                    <li> Connecting with like-minded artists</li>
+                  </ul>
+                </div>
+
+                <p>
+                  Please feel free to take a look at my website and feel free to <a href="#contact">Contact</a> me.
+                </p>
+
+                <p>
+                  <h3><center> Pete's Background </center>
+                  </h3>
+
+                  <p1><center> After graduating college, I became an art teacher and worked with
+                    beginners and professionals. I love art and my works have been
+                    featured in major art galleries across the globe. </div></center> </p1>
+
+        </article>
+
+        <p2><center><div>If you're looking to hire an artist or if you're an artist looking
+          for a collaborator for your next project, please reach out! I'm so
+          excited to work with other artists to create new art. </div></center>
+        </p2>
+
+        <div>
+          <article><hr></article>
+
+          <h2><center><div> Portfolio</div></h2></article>
+          <!-- TODO: Add Portfolio section here -->
+
+          <p>
+            <h3><center><div>Abstract Red</div></center></h3>
+            <center><div> <img src="images/abstract-red.png" alt="Abstract Red"></div> </center>
+            <center><div> Vaporware wayfarers heirloom neutra disrupt. Activated charcoal
+              waistcoat scenester hell of.
+            </div>
+
+            <p>
+
+              <h3><center><div>Spiral Zany</div></center></h3>
+              <center><div> <img src="images/spiral-zany.png" alt="Spiral Zany"></div> </center>
+
+              <p><div><center> Sioriracha portland taxidermy cronut messenger bag, vegan distillery. vaporware kickstarter air plant mumblecore food truck. </div> </center> </p>
+
+
+              <div><article>
+                <h3><center>Melted Rainbow</center></h3>
+                <center> <img src="images/melted-rainbow.png" alt="Melted Rainbow"> </center>
+                <center> Melted Rainbow
+                  Edison bulb single-origin coffee snackwave, actually ennui
+                  locavore shabby chic forage. </center>
+              </article>
+
+              <div>
+
+                <article>
+                  <hr>
+                </article>
+
+                <center> Contact</center>
+                <article>
+                  I'd love to hear from you! Please feel free to contact or follow me:
+                  <ol>
+                    <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+                    <li><a href="https://www.instagram.com/">Instagram</a></li>
+                    <li><a href="https://www.pinterest.com/"> Pinterest</a></li>
+                  </ol>
+
+
+                  <!-- TODO: Add Contact section here -->
+                </article>
+              </div>
+            </main>
+
+            <!-- Footer section -->
+            <footer>
+              <center><p>© Pete Thinkful. All rights reserved.</p></center>
+            </footer>
+          </body>
+
+</html>
